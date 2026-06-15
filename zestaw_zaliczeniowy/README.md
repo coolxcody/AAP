@@ -1,6 +1,6 @@
 # Zestaw zaliczeniowy — Architektura Aplikacji w Pythonie
 
-**Termin oddania:** TBD (ustalany na zajęciach)
+**Termin oddania:** 27.06.2026r.
 **Forma:** wypełniony Jupyter Notebook + krótkie sprawozdanie w pliku Markdown.
 
 ---
